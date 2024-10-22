@@ -11,9 +11,14 @@ This Python module provides a simple interface to interact with the Venmo API, a
 - Request money from other users
 - User lookup
 
-## Installation
+## Usage
+
+You need to provide your Venmo access token to authenticate all requests in this repo. You can find this token by inspecting the network requests when you are logged in to the Venmo website.
+
+If you dont want to deal with the token and hosting the integration yourself, you can reach out to us at Alan@taiki.online we can help you set everything up.
 
 This repo is intended to be used as a package in a larger project.
 https://github.com/Unofficial-APIs/Integrations
+
 
 
