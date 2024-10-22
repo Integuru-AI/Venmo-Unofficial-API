@@ -1,24 +1,22 @@
 # Venmo Integration
 
-This Python module provides a simple interface to interact with the Venmo API, allowing users to perform various operations such as checking balance, making payments, and requesting money.
+This is an unofficial API for Venmo. It allows you to interact with Venmo's internal APIs. 
 
 ## Features
 
 - Get account identity and balance
 - Retrieve personal transaction history
-- Get payment methods
-- Send payments to other users
-- Request money from other users
-- User lookup
+- Send payments
+- Request payments
+- Look up users
 
 ## Usage
 
-You need to provide your Venmo access token to authenticate all requests in this repo. You can find this token by inspecting the network requests when you are logged in to the Venmo website.
+You need to provide a Venmo access token to authenticate all requests in this repo. You can find this token by inspecting the network requests/cookies when you are logged into the Venmo website.
 
-If you dont want to deal with the token and hosting the integration yourself, you can reach out to us at Alan@taiki.online we can help you set everything up.
+## Info
+
+This integration is built by UnofficialAPIs.com. We take custom requests for new integrations or additional features for existing supported platforms. We also offer hosting and authentication services. If you have requests or want to work with us, reach out at richard@taiki.online.
 
 This repo is intended to be used as a package in a larger project.
 https://github.com/Unofficial-APIs/Integrations
-
-
-
