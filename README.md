@@ -16,7 +16,7 @@ You need to provide a Venmo access token to authenticate all requests in this re
 
 ## Info
 
-This integration is built by UnofficialAPIs.com. We take custom requests for new integrations or additional features for existing supported platforms. We also offer hosting and authentication services. If you have requests or want to work with us, reach out at richard@taiki.online.
+This integration is built by Integuru.ai. We take custom requests for new integrations or additional features for existing supported platforms. We also offer hosting and authentication services. If you have requests or want to work with us, reach out at richard@taiki.online.
 
 This repo is intended to be used as a package in a larger project.
-https://github.com/Unofficial-APIs/Integrations
+https://github.com/Integuru-AI/Integrations
